@@ -1,0 +1,11 @@
+{
+  "scriptFile": "Download_csv_using_python.py",
+  "bindings": [
+    {
+      "name": "mytimer",
+      "type": "timerTrigger",
+      "direction": "in",
+      "schedule": "0 */1 * * * *"
+    }
+  ]
+}
