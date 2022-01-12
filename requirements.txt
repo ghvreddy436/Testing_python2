@@ -9,3 +9,4 @@ azure.storage.blob
 azure-mgmt-resource
 azure-mgmt-datafactory
 azure-identity
+azure.storage
